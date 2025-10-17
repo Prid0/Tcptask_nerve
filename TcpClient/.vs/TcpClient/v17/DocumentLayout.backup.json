@@ -1,0 +1,63 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Nimap\\Desktop\\tcp\\TcpClient\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B5D81885-66F9-459D-8F94-157505D6789B}|TcpClient\\TcpClient.csproj|c:\\users\\nimap\\desktop\\tcp\\tcpclient\\tcpclient\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5D81885-66F9-459D-8F94-157505D6789B}|TcpClient\\TcpClient.csproj|solutionrelative:tcpclient\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 920,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            }
+          ]
+        },
+        {
+          "DockedHeight": 56,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Nimap\\Desktop\\tcp\\TcpClient\\TcpClient\\Program.cs",
+              "RelativeDocumentMoniker": "TcpClient\\Program.cs",
+              "ToolTip": "C:\\Users\\Nimap\\Desktop\\tcp\\TcpClient\\TcpClient\\Program.cs",
+              "RelativeToolTip": "TcpClient\\Program.cs",
+              "ViewState": "AgIAAG8AAAAAAAAAAAAAAHsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-15T04:20:29.985Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
